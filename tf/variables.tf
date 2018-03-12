@@ -5,5 +5,5 @@ variable "instance_type" {
   default = "t2.medium"
 }
 variable "ami" {
-  default = "ami-ed100689"
+  default = "ami-97785bed"
 }
