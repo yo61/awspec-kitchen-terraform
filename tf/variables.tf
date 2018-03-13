@@ -4,3 +4,5 @@ variable "instance_type" {
 variable "ami" {
   default = "ami-97785bed"
 }
+
+variable "role_arn" {}
