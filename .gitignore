@@ -30,3 +30,4 @@ Berksfile.lock
 .envrc
 terraform.tfstate
 .terraform
+terraform.tfstate.d
